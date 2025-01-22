@@ -1,9 +1,9 @@
 import Link from "next/link";
 
 const mockUrls = [
-  "https://ziscc8xnvc.ufs.sh/f/uPEu0Jc8nQrbx43TULB8DBpqLkZjAPYgXCeKRvm6ldiSIFcs",
-  "https://ziscc8xnvc.ufs.sh/f/uPEu0Jc8nQrbXl09F3i1dqfhiG9WKbIYuHtolMZ65cwCOBF0",
-  "https://ziscc8xnvc.ufs.sh/f/uPEu0Jc8nQrbAQBcYIRySrpmOMZKoF16ebj2Qaf3Nn8YC0wy",
+  "https://ezlhdp1z8l.ufs.sh/f/rVNTt4c6mQKZYrgI7ft4iMe7rGOpU9WXkozH8P0mLDtKByCS",
+  "https://ezlhdp1z8l.ufs.sh/f/rVNTt4c6mQKZ01LkJXUqQ9nFr2GtNR8i6WHhdEo0SVXmkblz",
+  "https://ezlhdp1z8l.ufs.sh/f/rVNTt4c6mQKZhfytW9G3O1sNARPiyT8bQrl7emB2ZELMjIU9",
 ]
 const mockImages = mockUrls.map((url, index) => ({
   id: index + 1,

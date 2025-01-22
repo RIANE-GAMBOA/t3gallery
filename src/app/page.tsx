@@ -1,4 +1,5 @@
 import Link from "next/link";
+import {db} from "~/server/db"
 
 const mockUrls = [
   "https://ezlhdp1z8l.ufs.sh/f/rVNTt4c6mQKZYrgI7ft4iMe7rGOpU9WXkozH8P0mLDtKByCS",
